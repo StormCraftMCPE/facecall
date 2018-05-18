@@ -4,9 +4,9 @@ toilet -f slant --gay "LiteSpam"
 sleep 1
 echo "\033[31;1m Macam-macam tool untuk spam"
 sleep 1
-echo "\033[33;1m Edithor: RoBoSkIjR_404"
+echo "\033[33;1m Edithor: VickyM1010"
 sleep 1
-echo "\033[32;1m ★contack: +6289515387959"
+echo "\033[32;1m ★contack: vicky@efspe.net"
 sleep 1
 echo "\033[34;1m ★Fox Cyber Team"
 sleep 1
@@ -82,7 +82,7 @@ echo "\033[31;1mNama tools: LiteSpam"
 sleep 1
 echo "\033[33;1mKarya: Mr.Rm (V2 By Mr.IM81)"
 sleep 1
-echo "\033[33;1mEdithor: RoBoSkIjR_404"
+echo "\033[33;1mEdithor: VickyM1010"
 sleep 1
 echo "\033[32;1mVersi: v2"
 sleep 1
